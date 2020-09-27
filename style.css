@@ -1,0 +1,134 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    height: 9663px;
+    width: 1900px;
+
+}
+.hed{
+    display: flex;
+    background-color: #408DDC;
+    height: 796px;
+    width: 100%;
+}
+.logo
+{
+    left: 0;
+    padding: 0;
+}
+
+#wyr{
+  color: white;
+  flex: 1;
+  padding: 230px 79px 0px 300px;
+  position: absolute;
+  font-family: "gotham";
+}
+
+#tekst-nr{
+    width: 506px;
+    height: 112px;
+}
+
+#tekst-sr{
+    width: 585px;
+    height: 183px;
+    padding: 42px 0px;
+}
+
+.obraz{
+    flex: 1;
+    padding: 141px 275px 0px 920px;
+    position: absolute;
+}
+img#obrazhd{
+   
+}
+
+
+.laptopNaSrodku{
+    text-align: center;
+    padding: 100px 402px 0px 402px;
+}
+
+#rozmiarlapnasr{
+    width: 1116px;
+    height: 614px;
+}
+
+.tekst
+{
+    padding: 55px 300px 0px 299px;
+}
+.odstep{
+    padding: 40px 0px 0px 0px;
+}
+
+h1.srodkowe{
+    color: #000000;
+    text-align: left;
+    font-family: Lato;
+    font-size: 50px;
+    line-height: 60px;
+    width: 1321px;
+    padding: 0px 0px 20px 0px;
+}
+
+p.srodkowe{  
+  color: #000000;
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: light;
+  line-height: 30px;
+  width: 1321px;
+  height: 120px;
+  text-align: left;
+  margin: 0px;
+}
+
+.panizdj{
+    padding: 66px 300px 0px 300px;
+}
+
+#obrazpani{
+    width: 1321px;
+    height: 784px;
+}
+
+#specyf{
+    padding: 53px 300px 30px 300px;
+}
+
+#table
+{
+    width:1317px;
+}
+
+tr,th{
+    padding: 20px 140px 20px 0px;
+    margin: 10px 70px 10px 70px;
+    border-bottom: 1px solid #979797;
+}
+#tabela
+{
+  width: 1137px;
+  color: #000000;
+  font-family: Lato;
+  font-size: 20px;
+  line-height: 30px;
+  width: 1317px;
+  text-align: left;
+  padding: 30px 300px 30px 300px;
+}
+
+li{
+            color: #000000;
+            font-family: Lato;
+            font-size: 20px;
+            line-height: 30px;
+            width: 1317px;
+            text-align: left;
+            
+}
